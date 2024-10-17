@@ -10,7 +10,7 @@
 import streamlit as st                            #used as front end and used to create webpages
 import requests                                   #allows to send HTTP requests
 import datetime                                   
-API_Key="3635c301ef9954aab314556148b28971"        #to call the weather APIs from the website
+API_Key=YOUR_API_KEY        #to call the weather APIs from the website
 
 
 def find_weather(city):
